@@ -13,5 +13,7 @@
 			Duis aute irure dolor in reprehenderit in voluptate velit esse
 			ciaecat cupidatat non anim id est laborum.
 		</div>
+
+		
 		
 <?php require('templates/footer.php'); ?>
